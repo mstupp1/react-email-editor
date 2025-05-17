@@ -43,7 +43,7 @@
     "rollup-plugin-copy": "^3.4.0",
     "tsdx": "^0.14.1",
     "tslib": "^2.4.1",
-    "typescript": "^4.9.4"
+    "typescript": "^4.9.5"
   },
   "author": "",
   "homepage": "https://github.com/unlayer/react-email-editor#readme",
